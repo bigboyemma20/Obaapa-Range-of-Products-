@@ -1,0 +1,27 @@
+#footer{
+    text-align:center;
+    color: aliceblue;
+    background-color: rgb(236, 139, 11);
+}
+h1{
+    text-align: center;
+    background-color:rgb(236, 139, 11) ;
+    color: aliceblue;
+}
+html{
+    background-color: antiquewhite;
+}
+#image{
+        text-align: center;
+}
+form{
+    padding: 10px;
+    border:2px solid #ffbb00;
+    text-align: center;
+}
+label{
+    padding: 10px 0 10px 10px;
+}
+#total{
+    width: 80px;
+}
